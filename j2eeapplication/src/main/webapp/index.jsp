@@ -7,6 +7,19 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Initial Project Configuration</h1>
+<h1> Initial Project Configuration - AutoDeploy v1.1</h1>
+		 	<form id="contactForm" action="servlet" method="post">
+   					<table border=”0”>
+					<tr>
+					<td> First Name : </td> <td><input type="text" name="firstname"/></td>
+					</tr>
+					<tr>
+					<td>Last Name : </td> <td><input type="text" name="lastname"/></td>
+					</tr>
+					<tr>
+					<td>Submit </td> <td> <input type="submit" value="submit"/></td>
+					</tr>
+					</table>
+   				 </form>
 </body>
 </html>
