@@ -1,2 +1,11 @@
-# apr2016
-HI This is Bank Management Project
+apr2016
+---------
+
+Course content for Apr, 2016 Java batch 
+
+Topics covered
+--------------
+
+    - Servlets
+
+    - JSP 
